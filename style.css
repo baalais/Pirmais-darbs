@@ -1,7 +1,7 @@
 .kvadrats {
   width: 50vw;
   height: 50vh;
-  border: 10px solid black;
+  border: 10px solid purple;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -10,6 +10,7 @@
 }
 button {
   border-radius: 20px;
+  background-color: red;
 }
 
 body {
